@@ -88,10 +88,10 @@ On your host machine create a service file:
   3. `start/enable` the servie file using `systemctl` command
   4. Create a user called caddy and ,ake it the owner using chown for:
     
-    1. `/var/www` directory
-    2. `/var/www/html/index.html` directory
-    3. `/var/www/src/index.js` directory
-    4. `/var/www/src` directory
+      1. `/var/www` directory
+      2. `/var/www/html/index.html` directory
+      3. `/var/www/src/index.js` directory
+      4. `/var/www/src` directory
     
   5. After giveing ownership enter the following commands to start the caddy service:
     
