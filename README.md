@@ -13,11 +13,7 @@
       3. set password using: `passwd user_name`
       
 ## Step 3
-Install Caddy webservers on both droplets by following the following steps. 
-
-  1. In both droplets enter: wget https://github.com/caddyserver/caddy/releases/download/v2.6.2/caddy_2.6.2_linux_amd64.tar.gz
-  2. Once downloaded unzip the file: tar xvf caddy_2.6.2_linux_amd64.tar.gz
-  3. Make the root its owner `sudo chown root: caddy` and move it to /usr/bin
+Install Caddy webservers on both droplets by following the steps from  ***step 5***. 
     
  ## Step 4
   1. On your host machine create a new directory called ACIT2420-Assignment2.
