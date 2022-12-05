@@ -13,7 +13,7 @@
       3. set password using: `passwd user_name`
       
 ## Step 3
-Install Caddy webservers on both droplets by following the steps from  ***step 5***. 
+We install Caddy in ***step 5 so skip this for now***. 
     
  ## Step 4
   1. On your host machine create a new directory called ACIT2420-Assignment2.
