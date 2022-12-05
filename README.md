@@ -104,3 +104,7 @@ On your host machine create a service file:
   1. Access the load balancers ip through a website to see the traffic balancing between the two servers. 
   
   ***My Load Balancer can be accessed through http://24.199.71.56/***
+
+![](images/server_one.png)
+
+![](images/server_two.png)
