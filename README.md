@@ -105,6 +105,6 @@ On your host machine create a service file:
   
   ***My Load Balancer can be accessed through http://24.199.71.56/***
 
-![](images/server_one.png)
+![](images/server-one.png)
 
-![](images/server_two.png)
+![](images/server-two.png)
